@@ -1,0 +1,44 @@
+.index
+{
+    background-image: url("im/pawel-czerwinski-fRzUPSFnp04-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.h1
+{
+    color: #8B008B;
+    text-align: center;
+    font-family: 'Elephant';
+    font-size: 80px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    text-shadow: 2px 2px 5px yellow;
+}
+.h2
+{
+    color: #483D8B;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 100px;
+    text-shadow: 2px 2px 5px green;
+}
+.sport
+{
+    color: #4B0082;
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 100px;
+    text-shadow: 2px 2px 5px green;
+}
+
+.margin
+{
+    margin-left: 20px;
+    text-align: center;
+}
